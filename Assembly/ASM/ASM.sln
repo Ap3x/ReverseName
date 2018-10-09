@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ASM", "ASM\ASM.vcxproj", "{387120CD-1A23-4202-88E3-77D2EF46C7FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{387120CD-1A23-4202-88E3-77D2EF46C7FE}.Debug|x64.ActiveCfg = Debug|x64
+		{387120CD-1A23-4202-88E3-77D2EF46C7FE}.Debug|x64.Build.0 = Debug|x64
+		{387120CD-1A23-4202-88E3-77D2EF46C7FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{387120CD-1A23-4202-88E3-77D2EF46C7FE}.Debug|x86.Build.0 = Debug|Win32
+		{387120CD-1A23-4202-88E3-77D2EF46C7FE}.Release|x64.ActiveCfg = Release|x64
+		{387120CD-1A23-4202-88E3-77D2EF46C7FE}.Release|x64.Build.0 = Release|x64
+		{387120CD-1A23-4202-88E3-77D2EF46C7FE}.Release|x86.ActiveCfg = Release|Win32
+		{387120CD-1A23-4202-88E3-77D2EF46C7FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {261884FA-BC24-4234-822B-4C846A6781F0}
+	EndGlobalSection
+EndGlobal
